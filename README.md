@@ -9,17 +9,17 @@ Each project is assigned a respective difficulity. All difficulties assume some 
 
 ###  Beginner Difficulty:  
 
- - [Console printout on clock interval (Ardunio)](#P1)   
+ - [Console Printout on Clock Interval (Ardunio)](#P1)   
  
- - [Blink on-board LED on clock interval (Ardunio)](#P2) 
+ - [Blink on-board LED on Clock Interval (Ardunio)](#P2) 
  
- - [Detect button push (RPi)](#P3)
+ - [Button Press Detection (RPi)](#P3)
 
 ###  Easy Difficulty: 
 
- - [Button press to blink LED (Ardunio)](#P4)  
+ - [Button Press to Blink LED (Ardunio)](#P4)  
  
- - [Ultra Sonic Sensor movement detection (RPi)](#P5)  
+ - [Ultra Sonic Sensor Movement Detection (RPi)](#P5)  
    
  - [Photovoltaic Cell Light Detection (RPi)](#P6)
 
@@ -27,23 +27,71 @@ Each project is assigned a respective difficulity. All difficulties assume some 
 
 ###  Medium Difficulty: 
 
- - [Button press to blink LED (Ardunio)](#P7)   
+ - [Place Holder 7 (Ardunio)](#P7)   
  
- - [Ultra Sonic Sensor movement detection (RPi)](#P8) 
+ - [Place Holder 8 (RPi)](#P8) 
 
- - [Photovoltaic Cell Light Detection (RPi)](#P9)
+ - [Multiplexed Display Hello World (Ardunio)](#P9)
 
  
 #### Hard Difficulty:  
  - [Place Holder 10 LED (?)](#P10)   
  
- - [Place Holder 11 (?)](#P11) 
+ - [Multiplexed Display Count Down (Ardunio)](#P11) 
 
  - [Tic Tac Toe (Ardunio)](#P12)
 
-## Switch to another file
+# Project Descriptions
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+
+#### <a id="P1"></a> Console Printout on Clock Interval 
+---
+
+
+#### <a id="P2"></a> Blink on-board LED on Clock Interval
+---
+
+
+#### <a id="P3"></a> Button Press Detection
+---
+
+
+#### <a id="P4"></a> Button Press to Blink LED
+---
+
+
+#### <a id="P5"></a> Ultra Sonic Sensor Movement Detection
+---
+
+
+#### <a id="P6"></a> Photovoltaic Cell Light Detection
+---
+
+
+#### <a id="P7"></a> Console Printout on Clock Interval 
+---
+
+
+#### <a id="P8"></a> Console Printout on Clock Interval 
+---
+
+
+#### <a id="P9"></a> -  Multiplexed Display Hello World
+---
+
+
+#### <a id="P10"></a> Place Holder 10 
+---
+
+
+#### <a id="P11"></a> Multiplexed Display Count Down
+---
+
+
+#### <a id="P12"></a> Tic Tac Toe
+---
+
+
 
 ## Rename a file
 
