@@ -7,29 +7,39 @@ Here you can find 12 different programming projects made for the Raspberry Pi or
 
 Each project is assigned a respective difficulity. All difficulties assume some basic level of programming and microcontroller experience. 
 
-### 1. Beginner Difficulty:  
+###  Beginner Difficulty:  
 
- 1. [Console printout on clock interval (Ardunio)](#P1)
- 2. Blink on-board led on clock interval (Ardunio) 
- 3.  Detect button push (RPi)
+ - [Console printout on clock interval (Ardunio)](#P1)   
+ 
+ - [Blink on-board LED on clock interval (Ardunio)](#P2) 
+ 
+ - [Detect button push (RPi)](#P3)
 
-### 2. Easy Difficulty: 
-	 1.  Button press to blink LED (Ardunio)
-	 2.  Ultra Sonic Sensor movement detection (RPi)
-	 3.  Photovoltaic Cell Light Detection (RPi)
-### 3. Medium Difficulty: 
-	 1.  Logic Ga
-	 2. 
-	 3. 
-### 4. Hard Difficulty: 
-	 1. 
-	 2. 
-	 3. Tic Tac Toe (Ardunio)
+###  Easy Difficulty: 
 
-## Data Sheets
+ - [Button press to blink LED (Ardunio)](#P4)  
+ 
+ - [Ultra Sonic Sensor movement detection (RPi)](#P5)  
+   
+ - [Photovoltaic Cell Light Detection (RPi)](#P6)
 
- - [Arduino Datasheet](https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf)
- - [Raspberry Pi 3 Model B Datasheet](https://www.alliedelec.com/m/d/4252b1ecd92888dbb9d8a39b536e7bf2.pdf)
+
+
+###  Medium Difficulty: 
+
+ - [Button press to blink LED (Ardunio)](#P7)   
+ 
+ - [Ultra Sonic Sensor movement detection (RPi)](#P8) 
+
+ - [Photovoltaic Cell Light Detection (RPi)](#P9)
+
+ 
+#### Hard Difficulty:  
+ - [Place Holder 10 LED (?)](#P10)   
+ 
+ - [Place Holder 11 (?)](#P11) 
+
+ - [Tic Tac Toe (Ardunio)](#P12)
 
 ## Switch to another file
 
@@ -103,5 +113,13 @@ After publishing, StackEdit keeps your file linked to that publication which mak
 ## Manage file publication
 
 Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
+
+
+
+
+# Reference Materials
+
+ - [Arduino Datasheet](https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf)
+ - [Raspberry Pi 3 Model B Datasheet](https://www.alliedelec.com/m/d/4252b1ecd92888dbb9d8a39b536e7bf2.pdf)
 
 
