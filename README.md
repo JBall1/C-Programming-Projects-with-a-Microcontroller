@@ -8,9 +8,11 @@ Here you can find 12 different programming projects made for the Raspberry Pi or
 Each project is assigned a respective difficulity. All difficulties assume some basic level of programming and microcontroller experience. 
 
 ### 1. Beginner Difficulty:  
-	 1. [Console printout on clock interval (Ardunio)](#P1)
-	 2. Blink on-board led on clock interval (Ardunio)
-	 3. Detect button push (RPi)
+
+ 1. [Console printout on clock interval (Ardunio)](#P1)
+ 2. Blink on-board led on clock interval (Ardunio) 
+ 3.  Detect button push (RPi)
+
 ### 2. Easy Difficulty: 
 	 1.  Button press to blink LED (Ardunio)
 	 2.  Ultra Sonic Sensor movement detection (RPi)
