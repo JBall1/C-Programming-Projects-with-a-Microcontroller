@@ -34,7 +34,7 @@ Each project is assigned a respective difficulity. All difficulties assume some 
  - [Multiplexed Display Hello World (Ardunio)](#P9)
 
  
-#### Hard Difficulty:  
+### Hard Difficulty:  
  - [Place Holder 10 LED (?)](#P10)   
  
  - [Multiplexed Display Count Down (Ardunio)](#P11) 
