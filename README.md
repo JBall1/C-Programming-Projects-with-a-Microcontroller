@@ -9,37 +9,37 @@ Each project is assigned a respective difficulity. All difficulties assume some 
 
 ###  Beginner Difficulty:  
 
- - [Console Printout on Clock Interval (Ardunio)](#P1)   
+ - [Project 1: Serial Print on Set Interval (Ardunio)](#P1)   
  
- - [Blink on-board LED on Clock Interval (Ardunio)](#P2) 
+ - [Project 2: Blink on-board LED on Set Interval (Ardunio)](#P2) 
  
- - [Button Press Detection (RPi)](#P3)
+ - [Project 3: Button Press Detection (RPi)](#P3)
 
 ###  Easy Difficulty: 
 
- - [Button Press to Blink LED (Ardunio)](#P4)  
+ - [Project 4: Button Press to Blink LED (Ardunio)](#P4)  
  
- - [Ultra Sonic Sensor Movement Detection (RPi)](#P5)  
+ - [Project 5: Ultrasonic Sensor Movement Detection (RPi)](#P5)  
    
- - [Photovoltaic Cell Light Detection (RPi)](#P6)
+ - [Project 6: Photovoltaic Cell Light Detection (RPi)](#P6)
 
 
 
 ###  Medium Difficulty: 
 
- - [Ultrasonic Sensor Distance Determination  (Ardunio)](#P7)   
+ - [Project 7: Ultrasonic Sensor Distance Determination  (Ardunio)](#P7)   
  
- - [LED Brightness Control with a Potentiometer (RPi)](#P8) 
+ - [Project 8: LED Brightness Control with a Potentiometer (RPi)](#P8) 
 
- - [Multiplexed Display Hello World (Ardunio)](#P9)
+ - [Project 9: Multiplexed Display Hello World (Ardunio)](#P9)
 
  
 ### Hard Difficulty:  
- - [Place Holder 10 LED (?)](#P10)   
+ - [Project 10: DC Motor Control](#P10)   
  
- - [Multiplexed Display Count Down (Ardunio)](#P11) 
+ - [Project 11: Multiplexed Display Count Down (Ardunio)](#P11) 
 
- - [Tic Tac Toe (Ardunio)](#P12)
+ - [Project 12: Tic Tac Toe (Ardunio)](#P12)
 
 # Project Descriptions
 
