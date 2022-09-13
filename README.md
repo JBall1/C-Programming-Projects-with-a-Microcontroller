@@ -48,7 +48,7 @@ Each project is assigned a respective difficulity. All difficulties assume some 
 Print out an incremented variable on a set interval using serial print to the serial port of the Arduino as human-readable ASCII text. 
 
 ---
-#### <a id="P2"></a> Blink on-board LED on Set Interval
+#### <a id="P2"></a> Project 2: Blink on-board LED on Set Interval
 Utilizing the on-board LED of the Arduino, blink the LED on a set interval define by the user.
 
 ---
@@ -72,7 +72,7 @@ Utilizing a (part number) Photovoltaic Cell, we will be able to detect light cha
 Utilizing a (part number, different from 5) ultrasonic sensor, determine the relative distance of an object in front of the sensor.
 
 ---
-#### <a id="P8"></a>  Project 8: LED Brightness Control with a Potentiometer
+#### <a id="P8"></a> Project 8: LED Brightness Control with a Potentiometer
 Detect the level of desired power level desired by the user by reading the resistance applied on a poteniometer and turning on 1, 2 or all 3 attached LEDs on a breadboard.
 
 ---
