@@ -1,5 +1,5 @@
-const unsigned long timeInterval = 500; //The time interval at which we will print in mS.
-
+const long timeInterval = 2000; //The time interval at which we will print in mS.
+long previousTime = 0;
 void setup() {
   //This contains actions we will take prior to executing our main loop. In this case, we set
   //our baud rate to 9600 - standard.
@@ -15,9 +15,9 @@ void loop() {
    */
   unsigned long currentTime = millis();
 
-  if(currentTime >= timeInterval) {
+  if(currentTime - previousTime >= timeInterval) {
     Serial.println("Hello World");
-    currentTime = 0;
+    previousTime = currentTime;
     }
-
+  
 }
