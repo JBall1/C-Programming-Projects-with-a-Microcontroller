@@ -98,6 +98,7 @@ Play Tic Tac Toe on your through your serial port against an 'AI' and display th
  - [Arduino Datasheet](https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf)
  - [Raspberry Pi 3 Model B Datasheet](https://www.alliedelec.com/m/d/4252b1ecd92888dbb9d8a39b536e7bf2.pdf)
 
-#Requried Software
+# Requried Software
+
  - [Latest Arduino IDE](https://www.arduino.cc/en/software)
 
