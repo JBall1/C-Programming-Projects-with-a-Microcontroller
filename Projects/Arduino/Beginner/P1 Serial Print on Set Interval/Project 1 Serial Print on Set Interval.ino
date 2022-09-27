@@ -22,4 +22,8 @@ void loop() {
     Serial.println("Hello World");
     previousTime = currentTime;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fd9d62185fca7324cb5c384043105633ad3975f4
